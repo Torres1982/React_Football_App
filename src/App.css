@@ -1,0 +1,50 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 100px;
+}
+
+.App-header {
+  background-color: green;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.6em;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.footballer {
+  display: inline-block;
+  margin: 5px;
+  padding: 10px;
+  width: 220px;
+  border: 1px solid grey;
+  box-shadow: 6px 6px 6px grey;
+}
+
+h2 {
+  color: grey;
+}
+
+span {
+  font-weight: bold;
+  float: left;
+  width: 90px;
+  text-align: left;
+}
+
+#props_children {
+    color: green;
+    text-align: left;
+    font-style: italic;
+}
