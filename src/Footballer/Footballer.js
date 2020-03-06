@@ -1,9 +1,9 @@
 import React from 'react';
-import '../App.css';
+import './Footballer.css';
 
 const footballer = (props) => {
   return (
-    <div className="footballer">
+    <div className="Footballer">
       <h2> {props.name} {props.surname} </h2>
       <p> <span> Age: </span> {props.age} </p>
       <p> <span> Country: </span> {props.nationality} </p>

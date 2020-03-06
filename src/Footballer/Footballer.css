@@ -1,0 +1,8 @@
+.Footballer {
+  display: inline-block;
+  margin: 5px;
+  padding: 10px;
+  width: 220px;
+  border: 1px solid grey;
+  box-shadow: 6px 6px 6px grey;
+}
