@@ -1,5 +1,8 @@
 ############################ Dependencies
 /node_modules
+.project
+.settings
+/idea
 
 ############################ Testing
 /coverage
