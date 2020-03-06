@@ -2,7 +2,7 @@
 /node_modules
 .project
 .settings
-/idea
+.idea
 
 ############################ Testing
 /coverage
